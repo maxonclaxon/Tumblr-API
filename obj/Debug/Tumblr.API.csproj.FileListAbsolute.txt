@@ -1,0 +1,10 @@
+C:\Users\zz\source\repos\ConsoleApp3\Tumblr.API\bin\Debug\Tumblr.API.dll
+C:\Users\zz\source\repos\ConsoleApp3\Tumblr.API\bin\Debug\Tumblr.API.pdb
+C:\Users\zz\source\repos\ConsoleApp3\Tumblr.API\bin\Debug\Newtonsoft.Json.dll
+C:\Users\zz\source\repos\ConsoleApp3\Tumblr.API\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\zz\source\repos\ConsoleApp3\Tumblr.API\bin\Debug\Newtonsoft.Json.xml
+C:\Users\zz\source\repos\ConsoleApp3\Tumblr.API\obj\Debug\Tumblr.API.csprojAssemblyReference.cache
+C:\Users\zz\source\repos\ConsoleApp3\Tumblr.API\obj\Debug\Tumblr.API.csproj.CoreCompileInputs.cache
+C:\Users\zz\source\repos\ConsoleApp3\Tumblr.API\obj\Debug\Tumblr.API.csproj.CopyComplete
+C:\Users\zz\source\repos\ConsoleApp3\Tumblr.API\obj\Debug\Tumblr.API.dll
+C:\Users\zz\source\repos\ConsoleApp3\Tumblr.API\obj\Debug\Tumblr.API.pdb
